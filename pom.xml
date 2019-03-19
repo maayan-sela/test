@@ -76,5 +76,8 @@
             </plugin>
         </plugins>
     </build>
+    <scm>
+        <developerConnection>scm:git:https://github.com/maayan-sela/test</developerConnection>
+    </scm>
 
 </project>
